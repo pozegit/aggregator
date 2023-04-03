@@ -1,0 +1,7 @@
+<plugins>
+  <pyqgis_plugin name="PluginName" version="2.1.0">
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+      <file_name>FolderName.SomeInfo</file_name>
+      <download_url>YourRepositoryURL/ArchiveName.SomeInfo.zip</download_url>
+  </pyqgis_plugin>
+</plugins>

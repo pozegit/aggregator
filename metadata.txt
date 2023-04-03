@@ -6,4 +6,4 @@ version=1.0.2
 qgisMinimumVersion=3.0
 author=Alexandru Sabo
 email=pozele@gmail.com
-repository=URL to the code repository
+repository=https://github.com/pozegit/aggregator/

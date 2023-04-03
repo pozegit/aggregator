@@ -1,7 +1,7 @@
 <plugins>
   <pyqgis_plugin name="PluginName" version="2.1.0">
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
-      <file_name>Folder.SomeInfos.zip</file_name>
+      <file_name>Folder.aggregator-main.zip</file_name>
       <download_url>https://github.com/pozegit/aggregator/archive/refs/heads/main.zip</download_url>
   </pyqgis_plugin>
 </plugins>

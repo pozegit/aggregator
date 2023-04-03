@@ -2,6 +2,6 @@
   <pyqgis_plugin name="PluginName" version="2.1.0">
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
       <file_name>Folder.SomeInfos.zip</file_name>
-      <download_url>https://github.com/pozegit/aggregator/blob/main/Folder.SomeInfos.zip</download_url>
+      <download_url>https://github.com/pozegit/aggregator/raw/main/Folder.SomeInfos.zip</download_url>
   </pyqgis_plugin>
 </plugins>
